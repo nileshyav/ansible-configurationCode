@@ -1,0 +1,7 @@
+[server]
+44.204.146.233
+
+[server:vars]
+ansible_ssh_private_key_file = /home/.ssh/mykeypair.pem
+ansible_user = ubuntu
+
